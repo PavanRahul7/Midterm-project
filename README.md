@@ -284,7 +284,6 @@ All exceptions include meaningful error messages to guide users.
 
 ### Files
 - **README.md** - Project overview and usage (this file)
-- **STRUCTURE_AND_IMPLEMENTATION.md** - Technical implementation details
 - **Code Docstrings** - Comprehensive documentation in source files
 - **Type Hints** - Static type checking support
 
@@ -337,10 +336,9 @@ source venv/bin/activate
 
 For questions or issues:
 1. Check this README
-2. Review the STRUCTURE_AND_IMPLEMENTATION.md
-3. Check code docstrings and comments
-4. Review test files for usage examples
-5. Consult the Python and pandas documentation
+2. Check code docstrings and comments
+3. Review test files for usage examples
+4. Consult the Python and pandas documentation
 
 ## 📜 License
 
