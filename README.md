@@ -1,4 +1,4 @@
-# Advanced Calculator with Design Patterns - Module 5 IS601
+# Midterm Project: Enhanced Calculator Command-Line Application 
 
 A comprehensive Python calculator application demonstrating professional software engineering practices, including multiple design patterns, comprehensive testing, and production-ready code.
 
